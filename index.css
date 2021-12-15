@@ -1,0 +1,19 @@
+h4, h5, p {
+  margin: 0;
+}
+
+.wrap {
+  max-width: 210px;
+  margin: 50px auto 0;
+}
+
+.searchBar {
+  margin-bottom: 20px;
+}
+
+.productTable-thead,
+.productRow {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
